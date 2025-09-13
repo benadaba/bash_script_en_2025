@@ -1,0 +1,6 @@
+add a new line
+Bash allows you to manage file and directory permissions:
+
+- `chmod`: Changes the permissions of a file or directory.
+  Example: `chmod +x script.sh` (adds executable permission)
+  Example: `chmod 644 myfile.txt` (sets read and write permissions for the owner, and read permissions for group and others)
