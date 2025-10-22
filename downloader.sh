@@ -1,3 +1,4 @@
+echo "these are every single arguments you have passed: $@"
 echo "These are all the arguments you have passed: $@"
 echo "added in master"
 
@@ -16,3 +17,5 @@ if [[ $? -ne 0 ]]; then
 fi
 #sleep 50
 echo $IFS
+
+echo "success!"
