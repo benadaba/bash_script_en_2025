@@ -1,4 +1,4 @@
-echo "these are the arguments you have passed: $@"
+echo "these are every single arguments you have passed: $@"
 
 echo "Total number of arguments passed: $#"
 
