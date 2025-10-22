@@ -1,4 +1,5 @@
 echo "these are the arguments you have passed: $@"
+echo "added in master"
 
 echo "Total number of arguments passed: $#"
 
