@@ -15,3 +15,5 @@ if [[ $? -ne 0 ]]; then
 fi
 #sleep 50
 echo $IFS
+
+echo "success!"
